@@ -7,11 +7,11 @@ solana批量转账/批量转token
 ## 安装(install)
 
 ```
-pip install pq_sol_transfer-0.1.0-py3-none-any.whl
+pip install pq_solana_transfer_sdk-0.1.0-py3-none-any.whl
 
 or 
 
-pip install pq_sol_transfer-0.1.0.tar.gz
+pip install pq_solana_transfer_sdk-0.1.0.tar.gz
 ```
 
 ## 使用说明
